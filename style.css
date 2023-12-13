@@ -1,0 +1,76 @@
+
+*{
+    margin-left: 20px;
+    padding: 0px;
+    background-image: url("bg.png");
+ background-color: #514d4d;
+}
+
+body{
+background-color: rgb(176, 176, 111);
+color: rgb(212, 220, 227);
+font-family: monospace;
+}
+
+h1{
+    font-family: monospace;
+    color: rgb(252, 136, 240);
+    margin-left: 35vh;
+    font-size: 70px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.food{
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+img{
+    width: 50%;
+    height: 70%;
+   }
+
+.caption1{
+    font-family: monospace;
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.movie{
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 70PX;
+}
+
+.caption2{
+    font-family: monospace;
+    color: rgb(161, 209, 251);
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+
+.hw{
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 70PX;
+}
+
+video{
+    width: 50%;
+    height: 70%; 
+}
+
+
+
+.last{
+    margin-bottom: 60px;
+}
+
+.subheading2{
+    margin-bottom: 60px;
+}
